@@ -1,0 +1,9 @@
+C:\Users\lukasz\Documents\oor-lab-4\wieleStron\bin\Debug\wieleStron.exe.config
+C:\Users\lukasz\Documents\oor-lab-4\wieleStron\bin\Debug\wieleStron.exe
+C:\Users\lukasz\Documents\oor-lab-4\wieleStron\bin\Debug\wieleStron.pdb
+C:\Users\lukasz\Documents\oor-lab-4\wieleStron\obj\Debug\wieleStron.csprojResolveAssemblyReference.cache
+C:\Users\lukasz\Documents\oor-lab-4\wieleStron\obj\Debug\wieleStron.Form1.resources
+C:\Users\lukasz\Documents\oor-lab-4\wieleStron\obj\Debug\wieleStron.Properties.Resources.resources
+C:\Users\lukasz\Documents\oor-lab-4\wieleStron\obj\Debug\wieleStron.csproj.GenerateResource.Cache
+C:\Users\lukasz\Documents\oor-lab-4\wieleStron\obj\Debug\wieleStron.exe
+C:\Users\lukasz\Documents\oor-lab-4\wieleStron\obj\Debug\wieleStron.pdb

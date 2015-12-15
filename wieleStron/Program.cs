@@ -19,4 +19,6 @@ namespace wieleStron
             Application.Run(new Form1());
         }
     }
+
+
 }

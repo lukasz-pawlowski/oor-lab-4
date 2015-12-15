@@ -7,3 +7,4 @@ C:\Users\lukasz\Documents\oor-lab-4\wieleStron\obj\Debug\wieleStron.Properties.R
 C:\Users\lukasz\Documents\oor-lab-4\wieleStron\obj\Debug\wieleStron.csproj.GenerateResource.Cache
 C:\Users\lukasz\Documents\oor-lab-4\wieleStron\obj\Debug\wieleStron.exe
 C:\Users\lukasz\Documents\oor-lab-4\wieleStron\obj\Debug\wieleStron.pdb
+C:\Users\lukasz\Documents\oor-lab-4\wieleStron\bin\Debug\RabbitMQ.Client.xml
